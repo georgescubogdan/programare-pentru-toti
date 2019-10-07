@@ -2,7 +2,7 @@
      
 int main()
 {
-	int numar, cifra, suma = 0;
+    int numar, cifra, suma = 0;
      
     printf("Introduceti un numar: ");
     scanf("%d", &numar);
