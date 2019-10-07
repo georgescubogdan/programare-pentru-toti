@@ -22,7 +22,7 @@ int main()
 	}
 
 	medie = suma / count;
-	printf("Sunt %d numere, cu suma: %0.0f, iar media aritmetica este %0.3f cu o precizie de 3 zecimale\n", count, suma, medie);
+	printf("Sunt %d numere, cu suma: %0.3f, iar media aritmetica este %0.3f cu o precizie de 3 zecimale\n", count, suma, medie);
 
 	return 0;
 }
