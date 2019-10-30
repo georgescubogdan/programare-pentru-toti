@@ -17,12 +17,12 @@ int checkPrime(int number)
 
 int main()
 {
-    int n, temp;
+    int n, result;
     printf("Introduceti un numar: ");
     scanf("%d", &n);
-    temp = checkPrime(n);
+    result = checkPrime(n);
 
-    if (temp == 0) {
+    if (result == 0) {
         printf("Numarul nu este prim!\n");
     } else {
         printf("Numarul este prim!\n");
