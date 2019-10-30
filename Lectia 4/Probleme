@@ -3,7 +3,8 @@ Probleme usoare:
 2. Scrieti un program care sa verifice daca un numar dat este prim sau nu, folosind o functie auxiliara "checkPrime".
 3. Scrieti un program care sa calculeze n! folosind o functie recursiva.
 
-Probleme medii
+Probleme medii:
 1. Scrieti un program care sa calculeze seria 1!/1+2!/2+3!/3+4!/4+5!/5+....+n!/n, folosind 2 functii, 
 una pentru calculul factorialului si una pentru calculul sumei.
-2. 
+2. Scrieti un program care sa calculeze c.m.m.d.c. al 2 numere date de la tastatura, folosind o functie recursiva.
+3. Scrieti un program care inverseaza recursiv caracterele unui sir dat de la tastatura.
