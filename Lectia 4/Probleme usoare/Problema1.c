@@ -18,14 +18,14 @@ int square(int number)
 
 int main()
 {
-    int n, temp;
+    int n, result;
     printf("Introduceti un numar: ");
     scanf("%d", &n);
-    temp = square(n);
+    result = square(n);
     /*
     Sau
     printf("Patratul numarului este: %d\n", square(n));
     */
-    printf("Patratul numarului este: %d\n", temp);
+    printf("Patratul numarului este: %d\n", result);
     return 0 ;
 } 
