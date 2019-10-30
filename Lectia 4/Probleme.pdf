@@ -1,7 +1,7 @@
 Probleme usoare:
 1. Scrieti un program care sa afiseze partratul unui numar natural folosind o functie auxiliara "square".
 2. Scrieti un program care sa verifice daca un numar dat este prim sau nu, folosind o functie auxiliara "checkPrime".
-3. 
+3. Scrieti un program care sa calculeze n! folosind o functie recursiva.
 
 Probleme medii
 1. Scrieti un program care sa calculeze seria 1!/1+2!/2+3!/3+4!/4+5!/5+....+n!/n, folosind 2 functii, 
