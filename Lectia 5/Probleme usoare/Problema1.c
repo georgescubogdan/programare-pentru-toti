@@ -1,3 +1,7 @@
+/**
+ * Authors: PPT Team
+ **/
+
 #include <stdio.h>
 
 void increase(int* n) 
