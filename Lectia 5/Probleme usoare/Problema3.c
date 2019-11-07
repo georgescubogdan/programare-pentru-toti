@@ -1,3 +1,7 @@
+/**
+ * Authors: PPT Team
+ **/
+
 #include <stdio.h>
 #include <stdlib.h>
 
