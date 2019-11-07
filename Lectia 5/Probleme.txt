@@ -1,0 +1,6 @@
+Medii:
+
+1. Rotire ciclica a 3 numere (folosind o functie cu transmitere prin adresa)
+2. Cautarea celui mai mare element dintr-un vector alocat dinamic si afisarea
+sumei diferentelor dintre numarul maxim si restul numerelor din vector
+3. Distanta euclidiana a unui set de numere (vector cu alocare dinamica)
