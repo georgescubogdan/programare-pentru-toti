@@ -1,3 +1,10 @@
+Usoare:
+
+1. O functie care incrementeaza valoarea unui pointer (atentie la transmiterea prin referinta!).
+2 O functie de interschimbare a doua numere, folosind pointeri.
+3. Alocarea dinamica a unui vector de lungime n si inserarea elementelor in el.
+
+
 Medii:
 
 1. Rotire ciclica a 3 numere (folosind o functie cu transmitere prin adresa)
