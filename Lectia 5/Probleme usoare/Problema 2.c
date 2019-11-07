@@ -1,3 +1,7 @@
+/**
+ * Authors: PPT Team
+ **/
+
 #include <stdio.h>
 
 void interchange(int* a, int* b) 
