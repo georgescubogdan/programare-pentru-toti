@@ -8,12 +8,7 @@ Echipa:
 - Bogdan Georgescu - [@georgescubogdan](https://github.com/georgescubogdan)
 - Mihai Lupea  - [@impmihai](https://github.com/impmihai)
 - Florin Popescu - [@popescuflorin](https://github.com/popescuflorin)
-- Razvan Drumesi - [@razvandru](https://github.com/razvandru)
-- Cristi Popa - [@CristianPopa96](https://github.com/CristianPopa96)
 - Andrei Sava - [@savaandreioct](https://github.com/savaandreioct)
-- Teodor Mutu - [@teodormutu8](https://github.com/teodormutu8)
-- Robert Necsoiu - [@NecsoiuRobert](https://github.com/NecsoiuRobert)
-- Cezara Surdoiu
 
 
 ## Powered by:
