@@ -13,4 +13,4 @@ Echipa:
 
 ## Powered by:
 
-![enter image description here](https://lh3.googleusercontent.com/mpWFhFQTE3mquAuLkfyT6kjUOuQx9uA1ondiAAJ4XqhaJxq13LMZGfeG9uxm68MwbtK4p1UY5JVP)
+![](https://lh3.googleusercontent.com/mpWFhFQTE3mquAuLkfyT6kjUOuQx9uA1ondiAAJ4XqhaJxq13LMZGfeG9uxm68MwbtK4p1UY5JVP)
